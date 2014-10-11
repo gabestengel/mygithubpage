@@ -1,3 +1,3 @@
-gabestengel.github.io
+gabestengel.me
 =====================
-Just a normal personal webstie
+Just my normal, personal webstie
